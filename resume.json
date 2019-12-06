@@ -1,0 +1,263 @@
+{
+  "basics": {
+    "name": "Cody Wilson Eilar",
+    "label": "Engineer, Scientist, Entrepeneur",
+    "picture": "https://codyeilar.com/profile_pic.jpg",
+    "email": "cody.eilar@gmail.com",
+    "phone": "(505) 514-5961",
+    "website": "https://codyeilar.com",
+    "summary": "I am an engineer, scientist, and entrepreneur. I am currently the co-founder and CTO of Lens, a company built on the idea that individuals should own and control their digital profiles, an approach that ultimately improves the relationships between businesses and their customers. As a firm believer in data-dignity, the technology decisions I make at Lens pushes the boundaries of conventional business models towards an ethical future and leverages the latest in decentralized web protocols and cryptography.",
+    "location": {
+      "address": "212 Dartmouth Dr. SE",
+      "postalCode": "87106",
+      "city": "Albuquerque",
+      "countryCode": "US",
+      "region": "New Mexico"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "AcidLeroy",
+        "url": "https://github.com/AcidLeroy"
+      },
+      {
+        "network": "GitLab - personal",
+        "username": "cody11",
+        "url": "https://gitlab.com/cody11"
+      }, 
+      {
+        "network": "GitLab - company",
+        "username": "cody11",
+        "url": "https://gitlab.com/MyLens"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "cody-eilar",
+        "url": "https://www.linkedin.com/in/cody-eilar/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Lens",
+      "position": "CTO/Cofounder",
+      "website": "https://mylens.io",
+      "startDate": "2018-06-01",
+      
+      "summary": "Lens flips the data market by putting individuals in control and ownership of their data and allows them to share that information through subscriptions. I built and architected the technical vision that aligned with the morals and direction of Lens and led a small team of highly talented engineers.",
+      "highlights": [
+        "Created and deployed hundreds of microservices on top of AWS infrastructure, written in Typescript and Javascript to support business needs.",
+        "Throughout the Lens journey, I pivoted the technology quickly support business objectives and constraints.",
+        "Successfully completed Quake Capital's accelerator program",
+        "Led development team to focus on Web 3.0 values such as digital equity and data dignity.",
+        "Supported and developed React.js front-end applications.", 
+        "Wrote and filed a non-provisional patent for technology developed at Lens.", 
+        "Wrote security protocols on top of frameworks such as libsodium, tweetnacl, and the Noise Protocol Framework", 
+        "Created dozens of experimental applications using decentralized technologies such as the Dat Project, IPFS, and Blockstack.", 
+        "Developed an iOS and progressive web application for end-user consumption", 
+        "Wrote technical and general-purpose articles on Medium explaining Lens and Lens technology for company evangelism.", 
+        "Automated the deployment of services using Gitlab's CI/CD system in conjunction with serverless.",
+        "Created Lens integrations with technology such as Mailchimp, Twilio, and Salesforce.", 
+        "Made a custom OS for the Raspberry Pi using BuildRoot to support Lens hardware endeavours."
+      ]
+    }, 
+    {
+      "company": "Sandia National Laboratories",
+      "position": "Senior Member of the Technical Staff, Computer Scientist R&D",
+      "website": "https://www.sandia.gov/",
+      "startDate": "2014-11-01",
+      "endDate": "2018-06-01",
+      "summary": "Committed to science with the mission in mind, Sandia creates innovative, science-based, systems-engineering solutions to our nation's most challenging national security problems. I was a core developer for image processing and geolocation applications for laboratory driven space missions.  ",
+      "highlights": [
+        "Developed a Vue.js web-app for aiding statisticians to formulate models for Sandia's Probabilistic Feature Fusion algorithm.", 
+        "Re-implemented legacy geolocation algorithms to be performant and scalable in cloud architectures in C++ and Cuda.", 
+        "Designed a highly scalable and low latency system for digital elevation lookups leveraging AWS ECS, Elasticache, and API Gateway.", 
+        "Implemented a microservice for transforming and parsing raw streaming data into a distilled format for downstream use. Project leveraged Docker and Kubernetes for easy deployment and scalability.", 
+        "Performed trade studies on various elevation lookup algorithms and the effect these algorithms would have on overall geolocation accuracy in Sandia's assets.", 
+        "Taught several workshops on testing and writing software with best practices in mind, specifically for C++.", 
+        "Mentored students from the University of Illinois, Urbanna-Champaign, to establish a hiring pipeline for Sandia. I created and was project lead on several space mission-related projects for the students to realize.",
+        "Designed and maintained automatic system integration tests to ensure highly functional code for customer delivery", 
+        "Implemented microservice for storing and retrieving camera bias frames for use by downstream geolocation users"
+      ]
+    }, 
+    {
+      "company": "Boeing LTS, Maui, HI",
+      "position": "Real-Time Software Engineer",
+      "website": "https://boeing.com",
+      "startDate": "2012-05-01",
+      "endDate": "2014-10-15",
+      "summary": "Boeing LTS in Maui is responsible for a variety of space missions such as space situational awareness and adaptive optics technology. I was a C++ developer for real-time control systems and object tracking algorithms on for AFRL telescopes on Haleakala, Maui, HI. My work in this area included algorithms for tracking satellites and stars for real-time analysis, software for real-time control loops, operator GUIs in QT, C++ interfaces to cameras and hardware, and also maintained and deployed software via RPMs on RedHat Linux.",
+      "highlights": [
+        "Wrote algorithms in C/C++ for tracking satellites and stars in real-time", 
+        "Wrote software for telescope pointing and tracking systems", 
+        "Maintained QT GUIs for operator control of telescopes on Haleakala", 
+        "Wrote C/C++ interfaces to hardware such as fast steering mirrors, translation stages, and laser systems",
+        "Deployed software to the operational telescope system using RPMs on Redhat Linux"
+      ]
+    },
+    {
+      "company": "Boeing SVS, Albuquerque, NM",
+      "position": "Real-Time Software Engineer",
+      "website": "https://boeing.com",
+      "startDate": "2010-05-01",
+      "endDate": "2012-05-01",
+      "summary": "Boeing LTS in Maui is responsible for a variety of space missions such as space situational awareness and adaptive optics technology. I was a C++ developer for real-time control systems and object tracking algorithms on for AFRL telescopes on Haleakala, Maui, HI. My work in this area included algorithms for tracking satellites and stars for real-time analysis, software for real-time control loops, operator GUIs in QT, C++ interfaces to cameras and hardware, and also maintained and deployed software via RPMs on RedHat Linux.",
+      "highlights": [
+        "Wrote algorithms in C/C++ for tracking satellites and stars in real-time", 
+        "Wrote software for telescope pointing and tracking systems", 
+        "Maintained QT GUIs for operator control of telescopes on Haleakala", 
+        "Wrote C/C++ interfaces to hardware such as fast steering mirrors, translation stages, and laser systems",
+        "Deployed software to the operational telescope system using RPMs on Redhat Linux"
+      ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "University of New Mexico",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2006-09-15",
+      "endDate": "2010-05-15",
+      "gpa": "3.54/4.0"
+    }, 
+    {
+      "institution": "University of New Mexico",
+      "area": "Computer Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2012-09-15",
+      "endDate": "2016-05-15",
+      "gpa": "3.83/4.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "IEEE 'Student of the Year'",
+      "date": "2010-05-15",
+      "awarder": "IEEE New Mexico Chapter",
+      "summary": "Awarded to IEEE student members that exemplify leadership and integrity."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Distributed video analysis for the AOLME project",
+      "publisher": "IEEE",
+      "releaseDate": "2016-06-09",
+      "website": "https://ieeexplore.ieee.org/abstract/document/7869106",
+      "summary": "Paper proposes a novel technique for scalable video activity recognition"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Typescript", 
+        "React.js", 
+        "Vue.js" 
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "C++",
+        "Node.JS",
+        "Typescript", 
+        "AWS", 
+        "Severless", 
+        "Python"
+      ]
+    },
+    {
+      "name": "Decentralized Development",
+      "level": "Master",
+      "keywords": [
+        "Dat",
+        "IPFS",
+        "Blockstack", 
+        "Blockchain"
+      ]
+    },
+    {
+      "name": "Security & Encryption",
+      "level": "Intermediate",
+      "keywords": [
+        "TLS/SSL",
+        "Libsodium",
+        "TweetNACL", 
+        "Noise Protocol Framework"
+      ]
+    }, 
+    {
+      "name": "iOS",
+      "level": "Beginner",
+      "keywords": [
+        "Swift",
+        "Coacoa",
+        "Carthage"
+      ]
+    }, 
+    {
+      "name": "Computer Vision",
+      "level": "Master",
+      "keywords": [
+        "C++",
+        "Cuda",
+        "OpenCV", 
+        "Python"
+      ]
+    }, 
+    {
+      "name": "Version Control",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Gitlab", 
+        "Bitbucket"
+      ]
+    }  
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }, 
+    {
+      "language": "French",
+      "fluency": "Conversational"
+    }, 
+    {
+      "language": "Spanish",
+      "fluency": "Basic vocabulary"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Flamenco",
+        "Heavy Metal", 
+        "Trance", 
+        "Underground Hiphop"
+      ]
+    },
+    {
+      "name": "Exercise", 
+      "keywords": [
+        "Weightlifting", 
+        "Running", 
+        "hiking", 
+        "Mountain biking", 
+        "Road biking"
+      ]
+    }
+  ],
+  "references": [
+    
+  ]
+}
